@@ -1,7 +1,7 @@
 package com.lixin.controller;
 
 
-public class XcxAction {
+public class sources {
 
     private long id;
     private String name;
